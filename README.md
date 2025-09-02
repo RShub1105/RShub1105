@@ -1,4 +1,4 @@
-##                                                                                Hi there 👋  welcome to my Github! I'm an Open Source Contributor 
+#                                                                           Hi there 👋  welcome to my Github! I'm an Open Source Contributor 
 
 
 <!--

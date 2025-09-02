@@ -1,4 +1,7 @@
-###                                                                          Hi there 👋  welcome to my Github! I'm an Open Source Contributor 
+####          Hi there 👋  welcome to my Github! I'm an Open Source Contributor hands-on expertise in Python development, DevOps automation, and cloud fundamentals. Built 25+ projects, including automation scripts, dashboards,                                 and monitoring tools. Skilled in system monitoring, alerts, log analysis, API integration, and data visualization. Currently pursuing DevOps & Cloud Computing
+####                                           Passionate about solving infrastructure challenges through automation and building reliable systems.
+
+                  
 
 
 <!--

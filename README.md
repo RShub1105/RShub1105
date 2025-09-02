@@ -26,7 +26,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/feed/?trk=onboarding-landing" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/40/4CAF50/linkedin.png" alt="LinkedIn"/>
+    <img src="https://img.icons8.com/ios-filled/40/0F3D0F/linkedin.png" alt="LinkedIn"/>
   </a>
 </p>
 

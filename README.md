@@ -1,19 +1,41 @@
-####        Hi there 👋  welcome to my Github! I'm an Open Source Contributor hands-on expertise in Python development, DevOps automation, and cloud fundamentals. Built 25+ projects, including automation scripts, dashboards,                                 and monitoring tools. Skilled in system monitoring, alerts, log analysis, API integration, and data visualization. Currently pursuing DevOps & Cloud Computing.                                                                                                Passionate about solving infrastructure challenges through automation and building reliable systems.
+<h2 align="center">✨ Welcome, Traveler ✨</h2>
 
-                  
+<h4 align="center">
+  <samp>
+    In this space, we build more than just <b>code</b> —  
+    we weave <b>ideas into reality</b>.  
+    May you find a home for your creativity here 🌱
+  </samp>
+</h4>
 
+---
 
-<!--
-**RShub1105/RShub1105** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  ⚡ 25+ projects in <b>automation, dashboards & monitoring</b><br>
+  ☁️ Exploring <b>DevOps & Cloud fundamentals</b><br>
+  ❤️ Passionate about <b>solving challenges through automation</b>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+ <img src="https://github.com/user-attachments/assets/77a04734-113a-4342-a694-dd139bc415b2" 
+       alt="Coding Animation" 
+       width="200"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<p align="center">
+  <a href="https://www.linkedin.com/feed/?trk=onboarding-landing" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/40/4CAF50/linkedin.png" alt="LinkedIn"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR-USERNAME&label=Profile%20Views&color=4CAF50&style=flat-square" alt="Profile Views"/>
+</p>
+
+<p align="center">
+  <samp>Thank you for visiting 🫶🏻 <br> Check out my repos ⬇️</samp>
+</p>

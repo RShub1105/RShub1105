@@ -33,7 +33,7 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR-USERNAME&label=Profile%20Views&color=4CAF50&style=flat-square" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=YOUR-USERNAME&label=Profile%20Views&color=0F3D0F&style=flat-square" alt="Profile Views"/>
 </p>
 
 <p align="center">
